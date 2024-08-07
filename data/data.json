@@ -1,0 +1,47 @@
+[
+  {
+    "pokemonOwnerName": "Priya",
+    "pokemons": [
+      {
+        "id": "7c4cb12e-fe1f-4baf-bfd9-ac3749f4fb60",
+        "pokemonOwnerName": "Priya",
+        "direction": "right",
+        "initialPositionX": "60",
+        "initialPositionY": "65",
+        "pokemonName": "pidgeotto",
+        "pokemonAbility": "tangled-feet",
+        "speed": "80"
+      }
+    ]
+  },
+  {
+    "pokemonOwnerName": "Rajesh",
+    "pokemons": [
+      {
+        "id": "466e06ad-49bd-4d4a-9b5d-55aa3b8c9991",
+        "pokemonOwnerName": "Rajesh",
+        "direction": "Left",
+        "initialPositionX": "90",
+        "initialPositionY": "90",
+        "pokemonName": "pidgey",
+        "pokemonAbility": "big-pecks",
+        "speed": "76"
+      }
+    ]
+  },
+  {
+    "pokemonOwnerName": "Deepika",
+    "pokemons": [
+      {
+        "id": "1d23d1af-8914-4fab-87bc-766410cafc14",
+        "pokemonOwnerName": "Deepika",
+        "direction": "top",
+        "initialPositionX": "20",
+        "initialPositionY": "30",
+        "pokemonName": "bulbasaur",
+        "pokemonAbility": "chlorophyll",
+        "speed": "87"
+      }
+    ]
+  }
+]
